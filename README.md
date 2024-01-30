@@ -36,7 +36,7 @@ const Abhijit = {
     <td style="padding-left: 1px; vertical-align: top;">
       <p>Self-Taught Data Scientist and AI Enthusiast from India. Specializing in data scraping, I enjoy turning ideas into reality through smart algorithms. Focused on making things user-friendly with strong system design and clean code.</p>
       <h3 align="left">💼 Freelance Work?</h3>
-      <p align="left">I'm open to freelance opportunities! Feel free to <a href="mailto:abhiji.com">reach out to me </a> <span style="font-size: 2.5em;">✉️</span></p>
+      <p align="left">I'm open to freelance opportunities! Feel free to <a href="mailto:abhijitmondal012@gmail.com">reach out to me </a> <span style="font-size: 2.5em;">✉️</span></p>
       <p align="right">
         <p style="display: inline-block;">I love connecting</p>
         <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: inline-block;">
