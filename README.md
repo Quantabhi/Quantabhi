@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Infi-09/Infi-09/blob/main/header.png" width="1380px" height="180px"></p>
+<p align="center"><img src="https://github.com/Quantabhi/Quantabhi/assets/117148458/a06498c6-c1c6-4b49-bb42-a51d89c1398e.png" width="1380px" height="180px"></p>
 <h1 align="center">Hi 😊 I'm Abhijit </h1>
 <h3 align="center">I'm passionate about solving real-world problems using data 📊</h3>
 <p align="center">
@@ -58,4 +58,3 @@ Category|Title | Technologies |Desctiption|
 |Testing|[Automated-Coupon-Testing-on-Pizza-Hut](https://github.com/Quantabhi/Automated-Coupon-Testing-on-Pizza-Hut-Website-using-Playwright-and-Python) |Python,playwright |Automate Pizza Hut coupon code testing with Playwright in Python|
 |Scraping|[Playwright-Proxy](https://github.com/Quantabhi/Playwright-Proxy)|Python,playwright |Playwright to perform web scraping with a proxy|
 </td>
-
