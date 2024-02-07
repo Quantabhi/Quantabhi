@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/Infi-09/Infi-09/blob/main/header.png" width="1380px" height="180px"></p>
 <h1 align="center">Hi 😊 I'm Abhijit </h1>
 <h3 align="center">I'm passionate about solving real-world problems using data 📊</h3>
 <p align="center">
