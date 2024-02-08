@@ -57,4 +57,5 @@ Category|Title | Technologies |Desctiption|
 |Scraping| [Internshala-Job-Trends](https://github.com/Quantabhi/Internshala-Job-Trends) |Python,Playwright,Seaborn,pandas |scrape and visualizes top internship categories on Internshala using Seaborn.|
 |Testing|[Automated-Coupon-Testing-on-Pizza-Hut](https://github.com/Quantabhi/Automated-Coupon-Testing-on-Pizza-Hut-Website-using-Playwright-and-Python) |Python,playwright |Automate Pizza Hut coupon code testing with Playwright in Python|
 |Scraping|[Playwright-Proxy](https://github.com/Quantabhi/Playwright-Proxy)|Python,playwright |Playwright to perform web scraping with a proxy|
+|Data Analysis|[Stock-Data-Analysis](https://github.com/Quantabhi/Stock-Data-Backtest)|Python,streamlit,matplotlib,pandas |Stock Data Analysis with TA|
 </td>
