@@ -11,22 +11,29 @@
 ```javascript
 const Abhijit = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python","Html","Css"],
-  askMeAbout: ["Data Scraping", "Artificial intelligence", "DataScience", "Theoretical physics"],
+  code: ["Python", "Html", "Css"],
+  askMeAbout: ["Data Analysis", "Data Scraping", "Data Science"],
   technologies: {
       dataScience: {
           languages: ["Python"],
           libraries: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
-          frameworks: ["Jupyter Notebooks"]
+          frameworks: ["Jupyter Notebooks"],
+          visualization: ["Tableau", "Power BI"]  
       },
       webScraping: {
           languages: ["Python"],
           libraries: ["request", "Beautiful Soup", "Selenium", "Scrapy"]
       },
+      dataEngineering: { 
+          languages: ["Python", "SQL"],
+          tools: ["AWS", "GCP"],
+          databases: ["MongoDB", "MySQL", "SQLite"],
+          workflow: ["ETL", "Data Pipelines"]
+      },
       devOps: ["AWS", "GCP"],
-      databases: ["mongodb", "MySql", "sqlite"],  
+      databases: ["PostgreSQL","MySQL"]
   },
-  currentFocus: "Exploring Generative AI",
+  currentFocus: "AI/ML",
 };
 ```
 <table style="width: 100%;">
