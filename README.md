@@ -43,8 +43,6 @@ const Abhijit = {
     </td>
     <td style="padding-left: 1px; vertical-align: top;">
       <p>Self-Taught Data Scientist and AI Enthusiast from India. Specializing in data scraping, I enjoy turning ideas into reality through smart algorithms. Focused on making things user-friendly with strong system design and clean code.</p>
-      <h3 align="left">💼 Freelance Work?</h3>
-      <p align="left">I'm open to freelance opportunities! Feel free to <a href="mailto:abhijitmondal012@gmail.com">reach out to me </a> <span style="font-size: 2.5em;"><img src="https://media.giphy.com/media/58s31i8iRsgwKeJvGM/giphy.gif" width="40"/></span></p>
       <p align="right">
         <p style="display: inline-block;">I love connecting</p>
         <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: inline-block;">
@@ -54,7 +52,8 @@ const Abhijit = {
   </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="80"/> Projects... 
+### <div align="center" > <img width ="200" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="80"/> Projects... 
+</div>
 <td>
   
 Category|Title | Technologies |Desctiption|
