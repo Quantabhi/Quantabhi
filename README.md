@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/Quantabhi/Quantabhi/assets/117148458/a06498c6-c1c6-4b49-bb42-a51d89c1398e.png" width="1380px" height="180px"></p>
-<h1 align="center">Hi 😊 I'm <a href="https://quantabhi.github.io/abhijit-portfolio/">Abhijit </h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://quantabhi.github.io/abhijit-portfolio/">Abhijit </h1>
 <h3 align="center">Where real-world problems meet functional UI.</h3>
 <p align="center">
   <img width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
