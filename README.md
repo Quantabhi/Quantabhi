@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://quantabhi.github.io/abhijit-portfolio/">Abhijit </h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://abhijitmondal.info">Abhijit </h1>
 <h3 align="center">Where real-world problems meet functional UI.</h3>
 <p align="center">
   <img width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
