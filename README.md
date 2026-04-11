@@ -39,3 +39,11 @@ Title | Technologies |Desctiption|
 |[ Weather App](https://github.com/Quantabhi/Weather-app) |HTML,CSS,JavaScript,OpenWeather API|A simple and responsive weather application built using HTML, CSS, and JavaScript.|
 | [Simple ToDo App](https://github.com/Quantabhi/To-Do-App) |HTML,CSS,JavaScrip|A modern, responsive, and interactive Todo List App|
 | [ Calculator Project](https://github.com/Quantabhi/Calculator) |HTML,CSS,JavaScrip | a simple and stylish calculator built using HTML, CSS, and JavaScript.|
+
+
+<p align="center">
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Quantabhi&theme=nightowl" alt="Adityaz23's Activity Graph" />
+</p>
+
+
+
