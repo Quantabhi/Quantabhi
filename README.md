@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://abhijitmondal.info">Abhijit </h1>
-<h3 align="center">Where real-world problems meet functional UI.</h3>
-<p align="center">
-  <img width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
-</p>
+<h1>
+  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://abhijitmondal.info">Abhijit 
+  </h1>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Quantabhi.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20count" alt="visitor-badge" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <h2>Who I Am</h2>
@@ -30,19 +30,10 @@ I am a frontend developer who focuses on functions, clean code, and simple, fast
 <br>
 
 
-### <div align="center" > <img width ="200" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="50"/> Projects... 
-</div>
-<td>
-  
-Title | Technologies |Desctiption|
-|--|--|--|
-|[ Weather App](https://github.com/Quantabhi/Weather-app) |HTML,CSS,JavaScript,OpenWeather API|A simple and responsive weather application built using HTML, CSS, and JavaScript.|
-| [Simple ToDo App](https://github.com/Quantabhi/To-Do-App) |HTML,CSS,JavaScrip|A modern, responsive, and interactive Todo List App|
-| [ Calculator Project](https://github.com/Quantabhi/Calculator) |HTML,CSS,JavaScrip | a simple and stylish calculator built using HTML, CSS, and JavaScript.|
 
 
 <p align="center">
-<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Quantabhi&theme=nightowl" alt="Adityaz23's Activity Graph" />
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Quantabhi&theme=nightowl" alt="Activity Graph" />
 </p>
 
 
