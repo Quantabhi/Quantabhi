@@ -2,14 +2,14 @@
   Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://abhijitmondal.info">Abhijit 
   </h1>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Quantabhi.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20count" alt="visitor-badge" />
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Quantabhi.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20count" alt="visitor-badge" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me...    -->
 <h2>Who I Am</h2>
-I am a frontend developer who focuses on functions, clean code, and simple, fast user interfaces. I like building things that work smoothly and solve real problems.
+I am a full-stack developer who focuses on building complete, functional web applications from frontend to backend. I write clean, maintainable code and aim to create simple, fast, and user-friendly interfaces along with reliable server-side systems. I enjoy solving real-world problems by developing efficient and scalable solutions.
 <h2>What I Am Working On</h2>
-<li>Building full functional web apps</li>
-<li>Improving my frontend skills with real world projects</li>
+<li>Building full-stack web applications with frontend and backend integration</li>
+<li>Improving my skills in frontend and backend development through real-world projects</li>
 <li>Contributing to open-source projects</li>
 
 <h2>Tools I Use</h2>
