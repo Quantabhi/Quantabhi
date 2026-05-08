@@ -1,5 +1,5 @@
 <h1>
-  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34"> I'm <a href="https://abhijitmondal.info">Abhijit 
+  Hi I'm Abhijit <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34">  
   </h1>
 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Quantabhi.visitor-badge&left_color=red&right_color=green&left_text=Visitors%20count" alt="visitor-badge" />
