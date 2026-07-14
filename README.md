@@ -1,3 +1,8 @@
+<div align="center">
+<img width="800" height="200" alt="504" src="https://github.com/user-attachments/assets/22946133-97b7-43ee-90c2-ac064cedfb3c" />
+</div>
+
+
 <h1>
   Hi I'm Abhijit <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="34">  
   </h1>
